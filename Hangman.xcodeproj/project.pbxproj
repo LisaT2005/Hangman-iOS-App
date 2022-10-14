@@ -16,6 +16,10 @@
 		781B1E4F28F9D7FE0068061A /* CategoriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781B1E4E28F9D7FE0068061A /* CategoriesView.swift */; };
 		781B1E5128F9D8250068061A /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781B1E5028F9D8250068061A /* GameView.swift */; };
 		781B1E5328F9D8560068061A /* WhiskeyBite-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 781B1E5228F9D8560068061A /* WhiskeyBite-Regular.otf */; };
+		781B1E5928F9E4D70068061A /* countries.txt in Resources */ = {isa = PBXBuildFile; fileRef = 781B1E5528F9E4D60068061A /* countries.txt */; };
+		781B1E5A28F9E4D70068061A /* animals.txt in Resources */ = {isa = PBXBuildFile; fileRef = 781B1E5628F9E4D60068061A /* animals.txt */; };
+		781B1E5B28F9E4D70068061A /* food.txt in Resources */ = {isa = PBXBuildFile; fileRef = 781B1E5728F9E4D70068061A /* food.txt */; };
+		781B1E5C28F9E4D70068061A /* clothing.txt in Resources */ = {isa = PBXBuildFile; fileRef = 781B1E5828F9E4D70068061A /* clothing.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +34,10 @@
 		781B1E5028F9D8250068061A /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 		781B1E5228F9D8560068061A /* WhiskeyBite-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WhiskeyBite-Regular.otf"; sourceTree = "<group>"; };
 		781B1E5428F9DB790068061A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		781B1E5528F9E4D60068061A /* countries.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = countries.txt; sourceTree = "<group>"; };
+		781B1E5628F9E4D60068061A /* animals.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = animals.txt; sourceTree = "<group>"; };
+		781B1E5728F9E4D70068061A /* food.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = food.txt; sourceTree = "<group>"; };
+		781B1E5828F9E4D70068061A /* clothing.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = clothing.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +72,10 @@
 			children = (
 				781B1E5428F9DB790068061A /* Info.plist */,
 				781B1E4A28F9D7860068061A /* MainView.swift */,
+				781B1E5628F9E4D60068061A /* animals.txt */,
+				781B1E5828F9E4D70068061A /* clothing.txt */,
+				781B1E5528F9E4D60068061A /* countries.txt */,
+				781B1E5728F9E4D70068061A /* food.txt */,
 				781B1E3C28F9D7160068061A /* HangmanApp.swift */,
 				781B1E4E28F9D7FE0068061A /* CategoriesView.swift */,
 				781B1E3E28F9D7160068061A /* ContentView.swift */,
@@ -143,8 +155,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				781B1E4428F9D7180068061A /* Preview Assets.xcassets in Resources */,
+				781B1E5A28F9E4D70068061A /* animals.txt in Resources */,
 				781B1E5328F9D8560068061A /* WhiskeyBite-Regular.otf in Resources */,
 				781B1E4128F9D7180068061A /* Assets.xcassets in Resources */,
+				781B1E5C28F9E4D70068061A /* clothing.txt in Resources */,
+				781B1E5B28F9E4D70068061A /* food.txt in Resources */,
+				781B1E5928F9E4D70068061A /* countries.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
