@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct gameApp: App {
+struct hangmanApp: App {
     @StateObject var viewRouter = ViewRouter()
     var body: some Scene {
         WindowGroup {
@@ -16,3 +16,8 @@ struct gameApp: App {
         }
     }
 }
+
+struct Category {
+    static var category = ""
+}
+

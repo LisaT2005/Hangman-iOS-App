@@ -57,6 +57,7 @@ struct CategoriesView: View {
                 
                 Button()
                 {
+                    Category.category = "animals"
                     viewRouter.currentPage = .game
                 } label: {
                     Text("animals")
@@ -74,6 +75,7 @@ struct CategoriesView: View {
                 
                 Button()
                 {
+                    Category.category = "food"
                     viewRouter.currentPage = .game
                 } label: {
                     Text("food")
@@ -91,6 +93,7 @@ struct CategoriesView: View {
                 
                 Button()
                 {
+                    Category.category = "countries"
                     viewRouter.currentPage = .game
                 } label: {
                     Text("countries")
@@ -106,6 +109,7 @@ struct CategoriesView: View {
                 
                 Button()
                 {
+                    Category.category = "clothing"
                     viewRouter.currentPage = .game
                 } label: {
                     Text("clothing")

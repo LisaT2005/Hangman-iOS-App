@@ -71,11 +71,11 @@
 			isa = PBXGroup;
 			children = (
 				781B1E5428F9DB790068061A /* Info.plist */,
-				781B1E4A28F9D7860068061A /* MainView.swift */,
 				781B1E5628F9E4D60068061A /* animals.txt */,
 				781B1E5828F9E4D70068061A /* clothing.txt */,
 				781B1E5528F9E4D60068061A /* countries.txt */,
 				781B1E5728F9E4D70068061A /* food.txt */,
+				781B1E4A28F9D7860068061A /* MainView.swift */,
 				781B1E3C28F9D7160068061A /* HangmanApp.swift */,
 				781B1E4E28F9D7FE0068061A /* CategoriesView.swift */,
 				781B1E3E28F9D7160068061A /* ContentView.swift */,

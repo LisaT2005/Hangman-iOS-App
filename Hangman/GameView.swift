@@ -65,6 +65,12 @@ struct GameView: View {
                 .font(gameFont)
                 .textFieldStyle(.roundedBorder)
                 
+                Text("category: " + Category.category)
+                    .font(gameFont)
+                
+                Text("guess: " + guess)
+                    .font(gameFont)
+                
                 Spacer()
                 
                 
