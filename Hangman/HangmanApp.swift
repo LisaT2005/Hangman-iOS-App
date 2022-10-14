@@ -2,7 +2,7 @@
 //  HangmanApp.swift
 //  Hangman
 //
-//  Created by Jose Mathew on 10/14/22.
+//  Lisa T
 //
 
 import SwiftUI
